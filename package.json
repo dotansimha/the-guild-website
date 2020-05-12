@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@agentofuser/remark-oembed": "1.0.4",
-    "@bugsnag/js": "6.5.2",
+    "@bugsnag/js": "7.0.2",
     "@mapbox/rehype-prism": "0.4.0",
     "@mdx-js/loader": "1.6.1",
     "@mdx-js/react": "1.6.1",
